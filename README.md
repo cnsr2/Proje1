@@ -53,7 +53,7 @@ O(n2)
 
 
 
-- sıralı dizilimde aradığımız sayı ne ensonda ne de en başta bulunduğundan ve ortalarda olduğundan dolayı Avarage Case kapsamına girer.
+- Sıralı dizilimde aradığımız sayı ne ensonda ne de en başta bulunduğundan ve ortalarda olduğundan dolayı Avarage Case kapsamına girer.
 
 
 
