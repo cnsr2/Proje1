@@ -15,12 +15,7 @@
 ## [2,6,16,18,22,27] Big-O Gösterimini Yazınız
 
 
-* [2,6,16,18,22,27] bu şekilde sıralı bir dizilim yapmıştık örneğin aradığımız sayı 2 olsun 
-
-* [2,6,16]  elimdeki sayı dizilimlerini ortadan bölüyorum ve aradığım sayı 16 ya mı 18 e mi daha yakın ona bakıyorum sonrasında hangisine daha yakınsa o tarafa yöneliyorum 
-
-* [2,6,16] şuanda elde ettiğim sayı dizisinde ortadan tekrardan bakıyorum ve elde etmek istediğim sayı hemen sol tarafımda kalıyor
-
+O(n2)
 
 
 # Time Complexity 
@@ -49,6 +44,8 @@
 
 - [2,6,16,18,22,27]  bu sıralı dizilimde aradığımız sayı eğer ki ilk yada son sayı değilde ortalarda bir sayı ise bu sayı Avarage Case kapsamına giriyor
 
+- bu sayılara (6,16,18,22) sayıları örnek olarak gösterilebilir 
+
 
 
 
@@ -56,7 +53,7 @@
 
 
 
-- sıralı dizilimde aradığımız sayı ne ensonda nede en başta bulunduğundan ve ortalarda olduğundan dolayı Avarage Case kapsamına girer.
+- sıralı dizilimde aradığımız sayı ne ensonda ne de en başta bulunduğundan ve ortalarda olduğundan dolayı Avarage Case kapsamına girer.
 
 
 
